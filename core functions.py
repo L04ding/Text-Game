@@ -1,5 +1,5 @@
 import os 
-class = gamehealth:
+class gamehealth:
 
  def __init__(self):
         self.health = 100
@@ -26,7 +26,7 @@ def main_game():
 
 os._exit(1)  
 
-class = gamehunger:
+class gamehunger:
  
 hunger = 100 
 
